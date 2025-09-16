@@ -1,7 +1,3 @@
  <img src="./logo lexpix.png" alt="lexpin profile-pic">
-
-
-
 Para dibujar
-
 Excalidraw
